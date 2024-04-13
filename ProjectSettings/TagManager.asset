@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LimitCollider
+  - IgnoreDoubleTap
+  - Checkpoint
+  - VehicleCapsuleCol
+  - mobileCanvas
+  - CanvasInGame
   layers:
   - Default
   - TransparentFX
@@ -13,15 +19,15 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Triggers
+  - PowerUpDetection
+  - PowerUps
+  - LimitZone
+  - Vehicle
+  - StartLine
+  - PostFx01
+  - PostFx02
+  - PostFxAll
   - 
   - 
   - 

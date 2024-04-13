@@ -6,14 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 7200e15f527e94849899909ba9cb0357
+  - enabled: 1
     path: Assets/Scenes/MainMenu/01_MM.unity
     guid: 7030b47c8f971489182cec6e056d4448
-  - enabled: 1
-    path: Assets/Scenes/Showroom/Showroom.unity
-    guid: 2f7fe983fcb28774599100d415bec82f
-  - enabled: 1
-    path: Assets/Scenes/Tracks/Default/StarterKit.unity
-    guid: ee21b0830583c4802ac08c5fae095d4f
   - enabled: 1
     path: Assets/Scenes/Tracks/Demo/Track_00.unity
     guid: 248dc11de39ac934db0575df1d4e1399
@@ -32,10 +29,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tracks/Demo/Track_05.unity
     guid: 4e34cb94208748b4a8a8ac969ae8102e
-  - enabled: 1
-    path: Assets/Scenes/Tutorials/Tuto_01/Tuto_01.unity
-    guid: f163bb66621964ae4b6061bd8139ffe8
-  - enabled: 1
-    path: Assets/Scenes/Tutorials/Tuto_01/Tuto_01b.unity
-    guid: 17c99cfd903b74f4e8ad214bed23f69e
   m_configObjects: {}
